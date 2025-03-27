@@ -6,7 +6,7 @@ This project implements a face recognition system using Haar cascade classifiers
 ## Features
 - Face detection using Haar cascade classifiers
 - Eye detection with support for eyeglasses
-- Real-time face recognition in video streams
+- Real-time face recognition in video streams 
 - Support for matching faces against a database
 
 ## Prerequisites
